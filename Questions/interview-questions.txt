@@ -1,0 +1,10 @@
+1.What is object-oriented programming? Explain the concept of inheritance and polymorphism.
+2.What is the difference between a stack and a queue data structure?
+3.What is an algorithm? Explain the different types of algorithms.
+4.What is a database? Explain the concept of normalization and denormalization.
+5.What is the difference between a thread and a process in operating system terms?
+6.What is the difference between a linked list and an array data structure?
+7.What is a software development life cycle? Explain the different phases of SDLC.
+8.What is a database management system? Explain the different types of database management systems.
+9.What is a binary tree? Explain the different types of binary trees.
+10.What is the difference between a compiler and an interpreter?
