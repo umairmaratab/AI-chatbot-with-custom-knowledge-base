@@ -1,10 +1,29 @@
-1.What is object-oriented programming? Explain the concept of inheritance and polymorphism.
-2.What is the difference between a stack and a queue data structure?
-3.What is an algorithm? Explain the different types of algorithms.
-4.What is a database? Explain the concept of normalization and denormalization.
-5.What is the difference between a thread and a process in operating system terms?
-6.What is the difference between a linked list and an array data structure?
-7.What is a software development life cycle? Explain the different phases of SDLC.
-8.What is a database management system? Explain the different types of database management systems.
-9.What is a binary tree? Explain the different types of binary trees.
-10.What is the difference between a compiler and an interpreter?
+Interviewer: Hi there! Thank you for taking the time to speak with me today. Could you start by telling me a little bit about your background and experience with computer science?
+
+Interviewee: Sure! I recently graduated with a degree in computer science, so I don't have a ton of experience yet. But I've taken a lot of courses in programming, data structures, algorithms, and database management.
+
+Interviewer: That sounds great! Let's start with a basic question. What is object-oriented programming?
+
+Interviewee: Object-oriented programming is a programming paradigm that focuses on creating objects that have properties (or attributes) and behaviors (or methods). It allows you to create complex programs by breaking them down into smaller, more manageable parts.
+
+Interviewer: Okay, thanks for explaining that. Can you also explain the concept of inheritance and polymorphism?
+
+Interviewee: Sure. Inheritance is a way of creating new classes that are built upon existing classes. The new class (the child class) inherits all of the properties and methods of the parent class. Polymorphism is the ability of objects to take on many forms. It allows you to write code that can work with objects of different classes as if they were the same type of object.
+
+Interviewer: That makes sense. Can you explain the difference between a stack and a queue data structure?
+
+Interviewee: A stack is a data structure that follows the Last-In, First-Out (LIFO) principle. Elements are added and removed from the top of the stack. A queue is a data structure that follows the First-In, First-Out (FIFO) principle. Elements are added to the back of the queue and removed from the front of the queue.
+
+Interviewer: Okay, thanks for explaining that. Can you give an example of an algorithm and explain the different types of algorithms?
+
+Interviewee: Sure. One example of an algorithm is the binary search algorithm, which is used to search for an item in a sorted list. The different types of algorithms include sorting algorithms (e.g. bubble sort, merge sort), searching algorithms (e.g. binary search, linear search), and graph algorithms (e.g. breadth-first search, depth-first search).
+
+Interviewer: Great, thanks for explaining that. Can you explain what a database is and the concept of normalization and denormalization?
+
+Interviewee: A database is a collection of data that is organized in a specific way. Normalization is the process of organizing the data in a database so that it is stored efficiently and can be easily retrieved. Denormalization is the process of adding redundant data to a database to improve its performance.
+
+Interviewer: Okay, I think I understand that. Thanks for explaining it. Can you explain the difference between a thread and a process in operating system terms?
+
+Interviewee: Sure. A process is an instance of a program that is being executed. It has its own memory space, whereas threads share the same memory space. A thread is a lightweight process that can be run concurrently with other threads within the same process.
+
+Interviewer: That's helpful, thank you for explaining that. I think that's all the questions I have for now. Thank you so much for taking the time to speak with me and sharing your knowledge!
